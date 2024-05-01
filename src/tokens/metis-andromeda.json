@@ -305,5 +305,36 @@
     "logoURI": "BASE_URL/assets/fxs.png",
     "decimals": 18,
     "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "ART",
+    "name": "Artemis-Token",
+    "address": "0x9641E6C6780591c07185d36066cD13A846Ac2D9f",
+    "logoURI": "BASE_URL/assets/artemis.png",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "vART",
+    "name": "v-Artemis",
+    "address": "0x5F1E2fb208C21E5Ff34C95d2Aa31855787573b34",
+    "logoURI": "BASE_URL/assets/artemis.png",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
+  },
+  {
+    "chainId": 1088,
+    "symbol": "TMETIS",
+    "name": "Test-Metis",
+    "address": "0x865b2784ca270Bb357828d5181149d30C0AC9b74",
+    "logoURI": "BASE_URL/assets/metis.png",
+    "decimals": 18,
+    "quote": "native",
+    "excludeFromExchange": true
   }
+
 ]
