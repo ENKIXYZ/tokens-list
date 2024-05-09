@@ -340,7 +340,7 @@
     "chainId": 1088,
     "symbol": "VDAO",
     "name": "VitalyDAO",
-    "address": "0xf3B39F01b3D937B40c25a9eaa1D6F68C7124EAc5",
+    "address": "0x38A7362Dab9b85Ba605Ff26e2BD82b328BDe99f1",
     "logoURI": "BASE_URL/assets/vdao.png",
     "decimals": 18,
     "quote": "native"
