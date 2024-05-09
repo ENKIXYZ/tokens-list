@@ -339,7 +339,7 @@
   {
     "chainId": 1088,
     "symbol": "VDAO",
-    "name": "VitalyDAO",
+    "name": "VestaDAO",
     "address": "0x38A7362Dab9b85Ba605Ff26e2BD82b328BDe99f1",
     "logoURI": "BASE_URL/assets/vdao.png",
     "decimals": 18,
