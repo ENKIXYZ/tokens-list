@@ -344,5 +344,14 @@
     "logoURI": "BASE_URL/assets/vdao.png",
     "decimals": 18,
     "quote": "native"
+  },
+  {
+    "chainId": 1088,
+    "symbol": "eMetis",
+    "name": "ENKI Metis",
+    "address": "0x97a2de3A09F4A4229369ee82c7F76be1a5564661",
+    "logoURI": "BASE_URL/assets/eMetis.png",
+    "decimals": 18,
+    "quote": "native"
   }
 ]
